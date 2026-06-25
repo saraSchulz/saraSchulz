@@ -25,6 +25,7 @@ Meu objetivo é evoluir constantemente como desenvolvedora, participando de proj
 <div alingn="center">
 
 ## 🛠️ Tecnologias
+
 ### Linguagens e Front-end
  
  <p>
@@ -33,6 +34,7 @@ Meu objetivo é evoluir constantemente como desenvolvedora, participando de proj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue.js" />
 </p>
+
 ### Ferramentas
 
 <p>
