@@ -25,6 +25,7 @@ Meu objetivo é evoluir constantemente como desenvolvedora, participando de proj
 <div alingn="center">
 
 ## 🛠️ Tecnologias
+
 ### Linguagens e Front-end
  
  <p>
