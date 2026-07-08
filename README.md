@@ -61,10 +61,10 @@ Meu objetivo é evoluir constantemente como desenvolvedora, participando de proj
 ---
 
 ## 📊 Estatísticas
-<div align="center"  >
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraSchulz&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraSchulz&layout=compact&theme=github_dark)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saraSchulz&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraSchulz&layout=compact&theme=github_dark"/>
 
 </div>
 </div>
